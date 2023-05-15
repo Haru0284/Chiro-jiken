@@ -1,0 +1,24 @@
+{
+  "APIs": {
+    "zenz": "https://api.zahwazein.xyz", 
+    "apikey": "zenzkey_4cee50c6b8"
+  },
+  "options": {
+    "autoRead": false,
+    "self": false,
+    "autobio": false,
+    "limitCount": 20,
+    "limitGame": 20
+  },
+  "exif": {
+    "packname": "By",
+    "author": "@Chiro_Kagenou"
+  },
+  "owner": [
+    "6283863636737",
+    "6283863636737",
+    "6283863636737"
+  ],
+  "timezone": "Asia/Jakarta",
+  "footer": "Powered by © Chiro Kagenou"
+}
